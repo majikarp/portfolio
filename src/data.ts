@@ -21,7 +21,7 @@ export const experience: Role[] = [
     role: 'Senior Software Engineer',
     period: '2023–2024',
     highlights: [
-      'Built React dashboards for a B2B SaaS platform helping CPG brands manage and analyze customer engagement',
+      'Developed React dashboards for a B2B SaaS platform helping CPG brands manage and analyze customer engagement',
     ],
   },
   {
