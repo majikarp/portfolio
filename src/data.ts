@@ -29,7 +29,7 @@ export const experience: Role[] = [
     role: 'Senior Software Engineer',
     period: '2022–2023',
     highlights: [
-      'Built the company\'s first design system from scratch — accessible React components with centralized Storybook docs',
+      'Built the company\'s first design system from scratch: accessible React components with centralized Storybook docs',
       'Engineered a template library that let animators launch projects instantly, cutting cross-team cycles significantly',
     ],
   },
@@ -118,7 +118,7 @@ export const projects: Project[] = [
     role: 'Senior Software Engineer',
     period: '2021–2022',
     description:
-      'Live and on-demand fitness streaming platform serving 2M+ subscribers. Led frontend engineering for the full product launch — high-traffic live event features, performance-critical streaming UI, and near-100% test coverage across the platform.',
+      'Live and on-demand fitness streaming platform serving 2M+ subscribers. Led frontend engineering for the full product launch, including high-traffic live event features, performance-critical streaming UI, and near-100% test coverage across the platform.',
     url: 'https://www.bodi.com',
     image: '/bodi.png',
   },
@@ -138,7 +138,7 @@ export const projects: Project[] = [
     role: 'UX Engineer',
     period: '2019–2021',
     description:
-      'AI-powered communication platform serving 1,000+ colleges and universities. Owned the full UX/UI lifecycle — from interaction design through implementation in Vue.js — and established the product\'s first centralized Storybook component library.',
+      'AI-powered communication platform serving 1,000+ colleges and universities. Owned the full UX/UI lifecycle, from interaction design through implementation in Vue.js, and established the product\'s first centralized Storybook component library.',
     url: 'https://hellomongoose.com',
     image: '/mongoose.png',
   },
