@@ -3,11 +3,11 @@ export default function Hero() {
     <section className="hero">
       <div className="container">
         <h1 className="hero-name">Sophia Dao</h1>
-        <p className="hero-title">Design Engineer</p>
+        <p className="hero-title">Senior Frontend Engineer</p>
         <p className="hero-bio">
           I build UI infrastructure that designers trust and engineers maintain —
           design systems, accessible components, and high-performance interfaces
-          that hold up at scale. 11+ years bridging design intent and engineering reality.
+          that hold up at scale. 11+ years at the intersection of design and engineering.
         </p>
         <div className="hero-links">
           <a
@@ -30,9 +30,6 @@ export default function Hero() {
             Email
           </a>
         </div>
-        <p className="hero-meta">
-          MFA · Interaction &amp; UI/UX Design · Academy of Art University
-        </p>
       </div>
     </section>
   )

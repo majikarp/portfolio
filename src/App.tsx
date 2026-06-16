@@ -1,7 +1,7 @@
 import Header from './components/Header'
 import Hero from './components/Hero'
+import Work from './components/Work'
 import Experience from './components/Experience'
-import Skills from './components/Skills'
 import Footer from './components/Footer'
 
 export default function App() {
@@ -10,8 +10,8 @@ export default function App() {
       <Header />
       <main>
         <Hero />
+        <Work />
         <Experience />
-        <Skills />
       </main>
       <Footer />
     </>
