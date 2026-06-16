@@ -134,7 +134,7 @@ export const projects: Project[] = [
   },
   {
     company: 'Mongoose',
-    product: 'Mongoose',
+    product: 'Cadence',
     role: 'UX Engineer',
     period: '2019–2021',
     description:
