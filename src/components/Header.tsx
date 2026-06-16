@@ -3,7 +3,7 @@ export default function Header() {
     <header>
       <a href="#" className="header-logo">SD</a>
       <a href="mailto:hello@sophdao.com" className="header-contact">
-        kuo.sophia@gmail.com
+        hello@sophdao.com
       </a>
     </header>
   )
